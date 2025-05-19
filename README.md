@@ -21,7 +21,7 @@ DNN 모델: EfficientNetV2-S (Pretrained 된 모델을 Pytorch에서 직접 가�
 9.	콘솔 창을 통해 1500초 동안 테스트 프로그램이 실행되는 것 확인. 실행이 끝나면 큐 3개, fps, 보조 변수 kappa, latency, partition point, resizing factor 로그 파일이 생성된다. 
 
 ※	모바일 기기와 서버의 python 버전은 3.8.10, pytorch 버전은 2.0.0이다. 
-※	모바일 기기에 Jetpack을 설치한 이후, 별도로 opencv를 설치해주어야 한다. Nvidia 사이트에서 소개한 방법이 통하지 않으므로, 설치 방법이 담긴 문서를 별도로 동봉한다. 
+※	모바일 기기에 Jetpack을 설치한 이후, 별도로 opencv를 설치해주어야 한다. 
 
 
 Mobile Device: Jetson Xavier NX
