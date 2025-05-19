@@ -2,7 +2,7 @@
 
 모바일 기기: Jetson Xavier NX 
 
-서버: RTX 4090 리눅스 PC //
+서버: RTX 4090 리눅스 PC 
 
 DNN 모델: EfficientNetV2-S (Pretrained 된 모델을 Pytorch에서 직접 가져와 사용함) 
 
